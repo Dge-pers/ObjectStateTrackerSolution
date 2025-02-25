@@ -1,0 +1,14 @@
+C:\Users\063457706\source\repos\ObjectStateTracker\bin\Debug\net8.0\ObjectStateTracker.exe
+C:\Users\063457706\source\repos\ObjectStateTracker\bin\Debug\net8.0\ObjectStateTracker.deps.json
+C:\Users\063457706\source\repos\ObjectStateTracker\bin\Debug\net8.0\ObjectStateTracker.runtimeconfig.json
+C:\Users\063457706\source\repos\ObjectStateTracker\bin\Debug\net8.0\ObjectStateTracker.dll
+C:\Users\063457706\source\repos\ObjectStateTracker\bin\Debug\net8.0\ObjectStateTracker.pdb
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.AssemblyInfoInputs.cache
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.AssemblyInfo.cs
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.csproj.CoreCompileInputs.cache
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.dll
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\refint\ObjectStateTracker.dll
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.pdb
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ObjectStateTracker.genruntimeconfig.cache
+C:\Users\063457706\source\repos\ObjectStateTracker\obj\Debug\net8.0\ref\ObjectStateTracker.dll
